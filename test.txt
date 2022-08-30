@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hi, This is PR line!
-=======
-Hi, This is first line!
->>>>>>> parent of c5cce16 (Changed the line name)
+Hi There
